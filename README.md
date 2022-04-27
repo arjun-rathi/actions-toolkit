@@ -12,7 +12,7 @@
 
 This toolkit is an opinionated alternative to (and wrapper around) the [official toolkit](https://github.com/actions/toolkit). `actions/toolkit` makes many features optional in the interest of performance, so you may prefer to use it instead of this library.
 
-## Usage
+## Usage - edit
 
 ### Installation
 
